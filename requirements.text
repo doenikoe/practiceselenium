@@ -1,0 +1,4 @@
+behave==1.2.5
+selenium==2.45.0
+openpyxl==2.2.4
+pillow==2.9.0
